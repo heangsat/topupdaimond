@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "plugins": [{ "name": "@vue/tsconfig/plugin" }]
+  },
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    }
+  ]
+}
